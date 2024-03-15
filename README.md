@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Ari
+# 👋 Hi, I’m Ari!
 
 - 👩🏻‍💻 iOS Software Engineer<br/>
 - 🌱 Currently learning about ML and LLMs<br/>
