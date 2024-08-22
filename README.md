@@ -1,12 +1,12 @@
 
 # 👋 Hi, I’m Ari!
 
-- 👩🏻‍💻 iOS Software Engineer<br/>
+- 👩🏻‍💻 Software Engineer<br/>
 - 🌱 Currently learning about ML and LLMs<br/>
 - 🤝 Looking to collaborate on apps with a focus on health, wellness, sustainability, and everything in between<br/>
 - 🐬 I enjoy swimming and hiking<br/>
 - ⛄ Fun fact: I was born in Siberia<br/>
-- 📩 Email me at: arishhu@gmail.com<br/>
+<br/>
 
 ## 💻🛠️ Tech Stack
 - Languages: Swift, Python
