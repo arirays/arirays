@@ -9,7 +9,7 @@
 
 ## 💻🛠️ Tech Stack
 - Languages: Swift, Python
-- Frameworks/Tools: SwiftUI, UIKit, Xcode, GitHub, Git, VSCode, Postman, Figma, Notion
+- Frameworks/Tools: SwiftUI, UIKit, Xcode, Git, GitHub, VSCode, Postman, Figma, Notion
 
 <!--
 **arirays/arirays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
