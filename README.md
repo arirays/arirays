@@ -7,7 +7,6 @@
 - 🐬 I enjoy swimming and hiking<br/>
 - ⛄ Fun fact: I was born in Siberia<br/>
 <br/>
-
 ## 💻🛠️ Tech Stack
 - Languages: Swift, Python
 - Frameworks/Tools: SwiftUI, UIKit, Xcode, GitHub, Git, VSCode, Postman, Figma, Notion
