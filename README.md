@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Ari!
 
 - 👩🏻‍💻 Software Engineer<br/>
-- 🌱 Currently learning about ML and LLMs<br/>
+- 🌱 Currently learning about DevOps & Cloud Infrastructure <br/>
 - 🤝 Looking to collaborate on apps with a focus on health, wellness, sustainability, and everything in between<br/>
 - 🐬 I enjoy swimming and hiking<br/>
 - ⛄ Fun fact: I was born in Siberia<br/>
