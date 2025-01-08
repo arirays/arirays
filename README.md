@@ -9,7 +9,7 @@
 
 ## 💻🛠️ Tech Stack
 - Languages: Python
-- Frameworks/Tools: AWS Cloud Infrastructure, Terraform, Kubernetes, CI/CD, Git, GitHub, VSCode, Postman, Figma, Notion
+- Frameworks/Tools: AWS Cloud Infrastructure, Terraform, Kubernetes, CI/CD, Git, GitHub, VSCode, Postman.
 
 <!--
 **arirays/arirays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
