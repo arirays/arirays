@@ -8,8 +8,8 @@
 - ⛄ Fun fact: I was born in Siberia<br/>
 
 ## 💻🛠️ Tech Stack
-- Languages: Swift, Python
-- Frameworks/Tools: SwiftUI, UIKit, Xcode, Git, GitHub, VSCode, Postman, Figma, Notion
+- Languages: Python
+- Frameworks/Tools: AWS Cloud Infrastructure, Terraform, Kubernetes, CI/CD, Git, GitHub, VSCode, Postman, Figma, Notion
 
 <!--
 **arirays/arirays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
