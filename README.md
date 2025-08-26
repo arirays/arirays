@@ -1,15 +1,21 @@
 
-# 👋 Hi, I’m Ari!
+# 👋 Hi, I’m Ariuna!
 
-- 👩🏻‍💻 Software Engineer<br/>
-- 🌱 Currently learning about DevOps & Cloud Infrastructure <br/>
-- 🤝 Looking to collaborate on apps with a focus on health, wellness, sustainability, and everything in between<br/>
-- 🐬 I enjoy swimming and hiking<br/>
-- ⛄ Fun fact: I was born in Siberia<br/>
+- 👩🏻‍💻 I’m a DevOps Engineer with a passion for building scalable, secure, and cost-efficient cloud infrastructures. With nearly 6 years of hands-on experience, I specialize in transforming complex systems into high-performing, automated environments using AWS, Kubernetes, Terraform, and cutting-edge cloud-native technologies. <br/>
+- 🤝 What I Do: I thrive on automating everything — from cloud infrastructure to CI/CD pipelines, and microservices deployments to security solutions. I build resilient, flexible systems that make product deployment easier and safer for teams. <br/>
+- My Philosophy: I believe in the power of optimization — whether it’s fine-tuning a cloud environment, creating the most efficient automation scripts, or even finding ways to make my daily routines run smoother. Everything can be optimized, and I’m here to make it happen.
+- Let’s Connect: I’m always excited to collaborate on cloud-native development automation projects. If you share the same passion or need help with your cloud infrastructure, feel free to reach out! <br/>
+  [LinkedIn](https://www.linkedin.com/in/ariunash/)
 
-## 💻🛠️ Tech Stack
-- Languages: Python
-- Frameworks/Tools: AWS Cloud Infrastructure, Terraform, Kubernetes, CI/CD, Git, GitHub, VSCode, Postman.
+## 🔧 Core Skills 
+- **Cloud Platforms**: AWS (multi-account, multi-region)  
+- **Infrastructure as Code**: Terraform, CloudFormation  
+- **Containers & Orchestration**: Docker, Kubernetes (EKS), Helm, ArgoCD/FluxCD  
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI  
+- **Monitoring & Logging**: Datadog, Prometheus, Grafana, Loki, ELK/EFK   
+- **Programming/Scripting**: Python (basics), Bash
+
+When I’m not building high-performance infrastructure, you can find me exploring new ways to streamline processes and systems with ☕️ <br/>
 
 <!--
 **arirays/arirays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
