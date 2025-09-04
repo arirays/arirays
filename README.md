@@ -8,7 +8,7 @@
   [LinkedIn](https://www.linkedin.com/in/ariunash/)
 
 ## 🔧 Core Skills 
-- **Cloud Platforms**: AWS (multi-account, multi-region)  
+- **Cloud Platforms**: AWS (multi-account, multi-region), Azure  
 - **Infrastructure as Code**: Terraform, CloudFormation  
 - **Containers & Orchestration**: Docker, Kubernetes (EKS), Helm, ArgoCD/FluxCD  
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI  
