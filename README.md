@@ -10,10 +10,10 @@
 ## 🔧 Core Skills 
 - **Cloud Platforms**: AWS (multi-account, multi-region), Azure  
 - **Infrastructure as Code**: Terraform, CloudFormation  
-- **Containers & Orchestration**: Docker, Kubernetes (EKS), Helm, ArgoCD/FluxCD  
-- **CI/CD**: GitHub Actions, Jenkins, GitLab CI  
+- **Containers & Orchestration**: Docker, Kubernetes (EKS), Helm 
+- **CI/CD**: GitHub Actions, ArgoCD, FluxCD, Jenkins
 - **Monitoring & Logging**: Datadog, Prometheus, Grafana, Loki, ELK/EFK   
-- **Programming/Scripting**: Python (basics), Bash
+- **Programming/Scripting**: Python, Bash
 
 When I’m not building high-performance infrastructure, you can find me exploring new ways to streamline processes and systems with ☕️ <br/>
 
